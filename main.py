@@ -6,3 +6,4 @@ HEADERS = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 def get_html(url, params = None):
     pass
+prunt('url')
